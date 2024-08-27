@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Foundation",
+    "brand": "Maybelline",
+    "category": "Face",
+    "price": 12.99
+  },
+  {
+    "id": "2",
+    "name": "Concealer",
+    "brand": "L'Oreal",
+    "category": "Face",
+    "price": 8.99
+  },
+  {
+    "id": "3",
+    "name": "Blush",
+    "brand": "NARS",
+    "category": "Face",
+    "price": 30
+  },
+  {
+    "id": "4",
+    "name": "Mascara",
+    "brand": "Benefit",
+    "category": "Eyes",
+    "price": 24
+  },
+  {
+    "id": "5",
+    "name": "Eyebrow Pencil",
+    "brand": "Anastasia Beverly Hills",
+    "category": "Eyes",
+    "price": 23
+  },
+  {
+    "id": "6",
+    "name": "Eyeliner",
+    "brand": "Urban Decay",
+    "category": "Eyes",
+    "price": 21
+  },
+  {
+    "id": "7",
+    "name": "Eyeshadow Palette",
+    "brand": "Too Faced",
+    "category": "Eyes",
+    "price": 49
+  },
+  {
+    "id": "8",
+    "name": "Lipstick",
+    "brand": "MAC",
+    "category": "Lips",
+    "price": 19
+  },
+  {
+    "id": "9",
+    "name": "Lip Gloss",
+    "brand": "Fenty Beauty",
+    "category": "Lips",
+    "price": 18
+  },
+  {
+    "id": "10",
+    "name": "Lip Liner",
+    "brand": "Charlotte Tilbury",
+    "category": "Lips",
+    "price": 22
+  },
+  {
+    "id": "11",
+    "name": "Setting Spray",
+    "brand": "Urban Decay",
+    "category": "Face",
+    "price": 32
+  },
+  {
+    "id": "12",
+    "name": "Highlighter",
+    "brand": "Becca",
+    "category": "Face",
+    "price": 38
+  },
+  {
+    "id": "13",
+    "name": "Bronzer",
+    "brand": "Hoola",
+    "category": "Face",
+    "price": 29
+  },
+  {
+    "id": "14",
+    "name": "Primer",
+    "brand": "Smashbox",
+    "category": "Face",
+    "price": 36
+  },
+  {
+    "id": "15",
+    "name": "Face Powder",
+    "brand": "Laura Mercier",
+    "category": "Face",
+    "price": 39
+  },
+  {
+    "id": "16",
+    "name": "Makeup Remover",
+    "brand": "Clinique",
+    "category": "Face",
+    "price": 20
+  },
+  {
+    "id": "17",
+    "name": "Nail Polish",
+    "brand": "OPI",
+    "category": "Nails",
+    "price": 10
+  },
+  {
+    "id": "18",
+    "name": "Cuticle Oil",
+    "brand": "Sally Hansen",
+    "category": "Nails",
+    "price": 8
+  },
+  {
+    "id": "19",
+    "name": "Nail Strengthener",
+    "brand": "Nailtiques",
+    "category": "Nails",
+    "price": 15
+  },
+  {
+    "id": "20",
+    "name": "Hand Cream",
+    "brand": "L'Occitane",
+    "category": "Body",
+    "price": 12
+  }
+]
